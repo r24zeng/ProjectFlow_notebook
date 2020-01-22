@@ -4,7 +4,7 @@ description: '"What" the system should do (as opposed to "how")'
 
 # Requirements Engineering
 
-### Understanding the problem to be solved + all the constraints wround it
+### Understanding the problem to be solved + all the constraints around it
 
 Activities:
 
