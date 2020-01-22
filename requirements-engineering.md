@@ -35,6 +35,18 @@ Necessary properties of requirements
 4. verfiable -&gt; I am tell it/check for fail
 5. free of implementation bias -&gt; forcus on what not how
 
+Challenges of RE
+
+* Distributed knowledge
+* Domain experts usually don’t have time
+* Tacit knowledge
+* Political problems
+* Both the undertanding and the problems to change
+
+
+
+
+
 
 
 
