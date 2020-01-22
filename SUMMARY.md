@@ -4,4 +4,5 @@
 * [Life-cycle model](life-cycle-model.md)
 * [Project flow](project-flow.md)
 * [Group collaboration](project-management.md)
+* [Requirements Engineering](requirements-engineering.md)
 
