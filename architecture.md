@@ -66,7 +66,23 @@ functional modify quality
 
 #### Example of function name:
 
-File Handle open\(string name\): This is function signature and also minly **syntactic**\(except for the evocative names\). **Semantics**: Add a desciption of what it does would give the semantics. error codes\(understand what condition\). response time. **protocol:** fixed sturcture of function such as English grammer \(this is also syntactic part\).
+File Handle open\(string name\): This is function signature and also minly **syntactic**\(except for the evocative names\). **Semantics**: Add a desciption of what it does would give the semantics. error codes\(understand what condition\). response time. **protocol:** fixed sturcture of function such as English grammar \(this is also syntactic part\).
+
+#### Module implementation\(secrets\):
+
+what are good secrets\(hide latency, cache data\), representation of data, properties of devices\(hardware, mechanism the support policies\(hide how you done\), implementation of world model data\(how to organize on georaphical map\)
+
+#### uses of modelization:
+
+* help with system comprehension\(understand interface of module to know big picture\)
+* paralle develops\(various teams allow you to organize the work\)
+* support evoluation\(limits ripple effects\)
+*  reuse of modules
+* tesing\(write test to each unit and easy anlyze the error\)
+
+
+
+
 
 
 
