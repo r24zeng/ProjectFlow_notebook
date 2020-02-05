@@ -50,9 +50,15 @@ fiterness for futhure: Modifiability, extensibility, maintainability，……
 
 repairs -&gt; removing reperted faults \(corrective maintenance\) + discovery and removal of dormant fualts\(preventative maintenance\)
 
-modifications -&gt; new features\(extension\) + adjusted to enviroment changes\(adaptive maintenance\)
+modifications -&gt; new features\(extension\) + adjusted to environment changes\(adaptive maintenance\)
 
+#### Modifiability:
 
+functional modify quality 
+
+module is a unit of system decomposition with how well define purpose and interface
+
+interface is a contract between the module and the environment
 
 
 
