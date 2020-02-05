@@ -56,9 +56,13 @@ modifications -&gt; new features\(extension\) + adjusted to environment changes\
 
 functional modify quality 
 
-module is a unit of system decomposition with how well define purpose and interface
+**module** is a unit of system decomposition with how well define purpose and interface. module has relationship with environment\(other modules and other system you need to talk to, context\)+ provide interface\(functions provided to the environment\) + gurantee properties\(call the function, the module works properly\) + required interface\(module reqired from environment\) + environment guarantees\(precondition you need to be set up\) + environment properties.
 
-interface is a contract between the module and the environment
+**interface** is a contract between the module and the environment. contract means two way-promise, do the job for someone and someone pay you. We hope interface is successful and also good perfermance. 
+
+**syntactical aspect interface** is about How to call it. Be detail: function service signatures\(function names, number of types or parameters\), also protocols\(data formating, ordering of calls\)
+
+**semantical aspect interface** is about what it does. effects of calling a function\( how to modify , per/pos-cconditon, random performance aspects, reliability\)
 
 
 
