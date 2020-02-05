@@ -38,7 +38,21 @@ plan/solution to how to satisfy requirements
 1. systemsis \(generate ideas\), brain stroming, iterative reaserch, experience
 2. conceptualize design ideas,descrption, prototyle, simulation
 3. analyze, evaluate what requirements and design criteria
-4. desiction making, trade off resolved.
+4. decision making, trade off resolved.
+
+#### Design contian:
+
+Fitteness for purpose: functionality, runime perfermance, reliability, security, ……
+
+fiterness for futhure: Modifiability, extensibility, maintainability，……
+
+#### Maintenance:
+
+repairs -&gt; removing reperted faults \(corrective maintenance\) + discovery and removal of dormant fualts\(preventative maintenance\)
+
+modifications -&gt; new features\(extension\) + adjusted to enviroment changes\(adaptive maintenance\)
+
+
 
 
 
