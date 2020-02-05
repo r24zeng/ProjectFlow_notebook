@@ -66,7 +66,7 @@ functional modify quality
 
 #### Example of function name:
 
-File Handle open\(string name\): This is function signature and also minly syntactic\(except for the evocative names\). Add a desciption of what it does would give the semantics
+File Handle open\(string name\): This is function signature and also minly **syntactic**\(except for the evocative names\). **Semantics**: Add a desciption of what it does would give the semantics. error codes\(understand what condition\). response time. **protocol:** fixed sturcture of function such as English grammer \(this is also syntactic part\).
 
 
 
