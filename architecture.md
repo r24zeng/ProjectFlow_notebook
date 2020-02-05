@@ -1,4 +1,4 @@
-# Architecture
+# Architecture and design
 
 #### Design
 

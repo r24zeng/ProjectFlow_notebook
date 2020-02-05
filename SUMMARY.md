@@ -5,5 +5,5 @@
 * [Project flow](project-flow.md)
 * [Group collaboration](project-management.md)
 * [Requirements Engineering](requirements-engineering.md)
-* [Architecture](architecture.md)
+* [Architecture and design](architecture.md)
 
