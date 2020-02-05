@@ -62,7 +62,11 @@ functional modify quality
 
 **syntactical aspect interface** is about How to call it. Be detail: function service signatures\(function names, number of types or parameters\), also protocols\(data formating, ordering of calls\)
 
-**semantical aspect interface** is about what it does. effects of calling a function\( how to modify , per/pos-cconditon, random performance aspects, reliability\)
+**semantical aspect interface** is about what it does. effects of calling a function\( how to modify , per/pos-condition, random performance aspects, reliability\)
+
+#### Example of function name:
+
+File Handle open\(string name\): This is function signature and also minly syntactic\(except for the evocative names\). Add a desciption of what it does would give the semantics
 
 
 
