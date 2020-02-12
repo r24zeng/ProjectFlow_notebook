@@ -6,4 +6,5 @@
 * [Group collaboration](project-management.md)
 * [Requirements Engineering](requirements-engineering.md)
 * [Architecture and design](architecture.md)
+* [Modulity](modulity.md)
 
