@@ -18,7 +18,7 @@ Good design provids clear rule on where to put new pices of code.
 Examples of poor cohesion:
 
 * coincidental cohesion -&gt; unrelated code, wrong decomposition
-* god classes -&gt; too many responsibility, a function is too big need to decomposition. It's many irrelated functions.
+* god classes -&gt; too many responsibility, a function is too big need to decomposition. It's many unrelated functions.
 * control-flow cohesion -&gt; code share common control flow, eg. same value and common code but different flag to execute different function. So merge the pices results in bad complicated and may not related cohesion. It's a only a function.
 * tempral cohesion
 * coupling: is induced by different types of dependencies among modules 😅 . eg. If you care the data from where, the two modules are coupling. If you put them acturally as one module, it saves the communication, minimize the decomposition, minimize the strength of the dependency.
