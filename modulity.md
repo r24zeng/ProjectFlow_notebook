@@ -36,7 +36,7 @@ implementation inheritance -&gt; strong coupling, bad, decompiste inheritance to
 
 Control coupling should be avoided
 
-stamp coupling should be avoided -&gt; more data is passed to a module which not necessary, only pass data necessary to perform the function, security reson, undependency policy
+stamp coupling should be avoided -&gt; more data is passed to a module which not necessary, only pass data necessary to perform the function, security reson, independency policy
 
 low coupling is good: we want to use module data coupling. No coupling is best, but data coupling is second good.
 
