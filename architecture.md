@@ -11,12 +11,12 @@ plan/solution to how to satisfy requirements
 
 #### subject of design
 
-1. sofware design - architecture + detailed design as it relates to code
+1. software design - architecture + detailed design as it relates to code
 2. end - user interface design - usability + esthetics 
 
 #### Architecture:
 
-1. components + connections: Join happends, think about how components communicate with each other.
+1. components + connections: Join happens, think about how components communicate with each other.
 2. often represented using nultiple views: It's good that different people work on different specifications
 3. now responsibilities assigned to developers
 
