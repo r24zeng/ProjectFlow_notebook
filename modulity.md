@@ -8,12 +8,12 @@ coupling: a degree of relatedness between modules
 
 we want semantically coherent modules.
 
-Function relized in a module can be related by 
+Function realized in a module can be related by 
 
 * topic
 * interface
 
-Good design provids clear rule on where to put new pices of code.
+Good design provides clear rule on where to put new pices of code.
 
 Examples of poor cohesion:
 

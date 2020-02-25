@@ -11,14 +11,14 @@ plan/solution to how to satisfy requirements
 
 #### subject of design
 
-1. software design - architecture + detailed design as it relates to code
+1. sofware design - architecture + detailed design as it relates to code
 2. end - user interface design - usability + esthetics 
 
 #### Architecture:
 
-1. components + connections: Join happens, think about how components communicate with each other.
+1. components + connections: Join happends, think about how components communicate with each other.
 2. often represented using nultiple views: It's good that different people work on different specifications
-3. how responsibilities assigned to developers
+3. now responsibilities assigned to developers
 
 #### Design process
 
@@ -27,7 +27,7 @@ plan/solution to how to satisfy requirements
 
 #### Avarage exercise
 
-1. store running sum of numbsets+count, return total divided by count
+1. store running sum of numbsers+count, return total divided by count
 2. Take average of pairs of numbers then recursively averages of result pairs
 3. Divide each number by the count and add 
 4. split into subsets, solve subproblems , aggregate 
@@ -35,20 +35,20 @@ plan/solution to how to satisfy requirements
 
 #### Design loop
 
-1. system analysis \(generate ideas\), brain stroming, iterative reaserch, experience
-2. conceptualize design ideas,descrption, prototype, simulation
+1. systemsis \(generate ideas\), brain stroming, iterative reaserch, experience
+2. conceptualize design ideas,descrption, prototyle, simulation
 3. analyze, evaluate what requirements and design criteria
 4. decision making, trade off resolved.
 
-#### Design contain:
+#### Design contian:
 
-Fitness for purpose: functionality, runime perfermance, reliability, security, ……
+Fitteness for purpose: functionality, runime perfermance, reliability, security, ……
 
-fitness for future: Modifiability, extensibility, maintainability，……
+fiterness for futhure: Modifiability, extensibility, maintainability，……
 
 #### Maintenance:
 
-repairs -&gt; removing reported faults \(corrective maintenance\) + discovery and removal of dormant fualts\(preventative maintenance\)
+repairs -&gt; removing reperted faults \(corrective maintenance\) + discovery and removal of dormant fualts\(preventative maintenance\)
 
 modifications -&gt; new features\(extension\) + adjusted to environment changes\(adaptive maintenance\)
 
@@ -56,7 +56,7 @@ modifications -&gt; new features\(extension\) + adjusted to environment changes\
 
 functional modify quality 
 
-**module** is a unit of system decomposition with how well define purpose and interface. module has relationship with environment\(other modules and other system you need to talk to, context\)+ provide interface\(functions provided to the environment\) + guarantee properties\(call the function, the module works properly\) + required interface\(module required from environment\) + environment guarantees\(precondition you need to be set up\) + environment properties.
+**module** is a unit of system decomposition with how well define purpose and interface. module has relationship with environment\(other modules and other system you need to talk to, context\)+ provide interface\(functions provided to the environment\) + gurantee properties\(call the function, the module works properly\) + required interface\(module reqired from environment\) + environment guarantees\(precondition you need to be set up\) + environment properties.
 
 **interface** is a contract between the module and the environment. contract means two way-promise, do the job for someone and someone pay you. We hope interface is successful and also good perfermance. 
 
@@ -75,8 +75,8 @@ what are good secrets\(hide latency, cache data\), representation of data, prope
 #### uses of modelization:
 
 * help with system comprehension\(understand interface of module to know big picture\)
-* parallel develops\(various teams allow you to organize the work\)
-* support evaluation\(limits ripple effects\)
+* paralle develops\(various teams allow you to organize the work\)
+* support evoluation\(limits ripple effects\)
 *  reuse of modules
 * tesing\(write test to each unit and easy anlyze the error\)
 
