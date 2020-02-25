@@ -15,7 +15,7 @@ Activities:
 
 ELement of requirements:
 
-* purpose of the sofware/"mission statement"
+* purpose of the software/"mission statement"
 * stakeholders \(customer, users, regulators, developers, maintainers, ......\)
 * project scope \(context digram, what is in + what is out\)
 * assumptions
