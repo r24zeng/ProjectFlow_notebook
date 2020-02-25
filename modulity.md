@@ -26,23 +26,23 @@ Examples of poor cohesion:
 
 #### coupling:
 
- It is induced by different types of dependencies among modules 😅 . eg. If you care the data from where, the two modules are coupling. If you put them acturally as one module, it saves the communication, minimize the decomposition, minimize the strength of the dependency.
+ It is induced by different types of dependencies among modules 😅 . eg. If you care the data from where, the two modules are coupling. If you put them actually as one module, it saves the communication, minimize the decomposition, minimize the strength of the dependency.
 
 * data -- A provides data to B, weakest dependency
 * control -- A controls the execution of B
 * source -- A calls a service from B
 * identity -- A is aware of identity of B
 * location -- A is aware of location of B
-* quality of service -- A expects certain QoS from B \(eg, ecpect B comes 10 am\)
+* quality of service -- A expects certain Quality of Service from B \(eg, ecpect B comes 10 am\)
 * hidden coupling \(bad\) can be avoided by making explicit interfaces \(global variable, relocation\)
 
-implementation inheritance -&gt; strong coupling, bad, decompiste inheritance to interface
+implementation inheritance -&gt; strong coupling, bad, decomposite inheritance to interface
 
 * eg, superclass contains subfunctions, and subfunctions can be reused. Prefer interface inherence.
 
 Control coupling should be avoided
 
-stamp coupling should be avoided -&gt; more data is passed to a module which not necessary, only pass data necessary to perform the function, security reson, independency policy
+stamp coupling should be avoided -&gt; more data is passed to a module which not necessary, only pass data necessary to perform the function, security reason, independency policy
 
 low coupling is good: we want to use module data coupling. No coupling is best, but data coupling is second good.
 
