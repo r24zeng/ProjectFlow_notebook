@@ -18,7 +18,7 @@ plan/solution to how to satisfy requirements
 
 1. components + connections: Join happens, think about how components communicate with each other.
 2. often represented using nultiple views: It's good that different people work on different specifications
-3. now responsibilities assigned to developers
+3. how responsibilities assigned to developers
 
 #### Design process
 
